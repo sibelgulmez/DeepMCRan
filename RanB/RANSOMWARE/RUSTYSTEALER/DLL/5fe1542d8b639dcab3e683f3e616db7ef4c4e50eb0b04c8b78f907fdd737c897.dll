@@ -1,0 +1,1 @@
+KERNEL32.dll,msvcrt.dll,Secur32.dll,advapi32.dll,bcrypt.dll,iphlpapi.dll,netapi32.dll,ntdll.dll,ole32.dll,oleaut32.dll,pdh.dll,powrprof.dll,psapi.dll,shell32.dll,user32.dll
