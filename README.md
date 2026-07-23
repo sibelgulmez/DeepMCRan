@@ -8,20 +8,12 @@ If you use this dataset, please cite our paper:
 
 ## Dataset Overview
 
-+---------+-----------------------+------------+--------+------------+
-| Dataset |         Source        | Ransomware | Benign | Ransomware |
-|         |                       |            |        |  Families  |
-+---------+-----------------------+------------+--------+------------+
-|  RanVS  |     VirusShare /      |    9,000   |  9,000 |     N/A    |
-|         | Windows System Files  |            |        |            |
-|         |     & Download.com    |            |        |            |
-+---------+-----------------------+------------+--------+------------+
-|   RanA  |    Moreira et al.     |    1,023   |  1,134 |     25     |
-+---------+-----------------------+------------+--------+------------+
-|   RanB  |     MalwareBazaar     |    4,055   |    0   |     19     |
-+---------+-----------------------+------------+--------+------------+
-| RanZero |     MalwareBazaar     |     157    |    0   |      2     |
-+---------+-----------------------+------------+--------+------------+
+| Dataset | Source | Ransomware Samples | Benign Samples | Ransomware Families |
+|---------|--------|-------------------:|---------------:|--------------------:|
+| RanVS | VirusShare, Windows System Files & Download.com | 9,000 | 9,000 | N/A |
+| RanA | Moreira *et al.* | 1,023 | 1,134 | 25 |
+| RanB | MalwareBazaar | 4,055 | 0 | 19 |
+| RanZero | MalwareBazaar | 157 | 0 | 2 |
 
 * The executable files of the **RanA** dataset were obtained from the previously published dataset introduced in the following paper: Moreira, C. C., Moreira, D. C., & de Sales Jr, C. D. S. (2023). Improving ransomware detection based on portable executable header using xception convolutional neural network. Computers & Security, 130, 103265.
 * The executable files of the remaining three datasets were collected from publicly available repositories (VirusShare and MalwareBazaar).
