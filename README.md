@@ -1,7 +1,30 @@
 # DeepMCRan
 Deep MCRan Dataset
 
-This repository contains the dataset used in the Deep MCRan study (by Sibel Gulmez, Arzu Gorgulu Kakisim, Ibrahim Sogukpinar). 
+This repository contains the four ransomware datasets used in the Deep MCRan study (by Sibel Gulmez, Arzu Gorgulu Kakisim, Ibrahim Sogukpinar). 
 
 If you use this dataset, please cite our paper:
+-- To be added --
+
+## Dataset Overview
+
++---------+-----------------------+------------+--------+------------+
+| Dataset |         Source        | Ransomware | Benign | Ransomware |
+|         |                       |            |        |  Families  |
++---------+-----------------------+------------+--------+------------+
+|  RanVS  |     VirusShare /      |    9,000   |  9,000 |     N/A    |
+|         | Windows System Files  |            |        |            |
+|         |     & Download.com    |            |        |            |
++---------+-----------------------+------------+--------+------------+
+|   RanA  |    Moreira et al.     |    1,023   |  1,134 |     25     |
++---------+-----------------------+------------+--------+------------+
+|   RanB  |     MalwareBazaar     |    4,055   |    0   |     19     |
++---------+-----------------------+------------+--------+------------+
+| RanZero |     MalwareBazaar     |     157    |    0   |      2     |
++---------+-----------------------+------------+--------+------------+
+
+* The executable files of the **RanA** dataset were obtained from the previously published dataset introduced in the following paper: Moreira, C. C., Moreira, D. C., & de Sales Jr, C. D. S. (2023). Improving ransomware detection based on portable executable header using xception convolutional neural network. Computers & Security, 130, 103265.
+* The executable files of the remaining three datasets were collected from publicly available repositories (VirusShare and MalwareBazaar).
+
+All executable files were analyzed using our the methodology described in our paper, and the resulting datasets are provided in this repository. Please refer to our paper for detailed information about the datasets:
 -- To be added --
