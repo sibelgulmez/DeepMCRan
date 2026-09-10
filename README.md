@@ -4,7 +4,8 @@ Deep MCRan Dataset
 This repository contains the four ransomware datasets used in the Deep MCRan study (by Sibel Gulmez, Arzu Gorgulu Kakisim, Ibrahim Sogukpinar). 
 
 If you use this dataset, please cite our paper:
--- To be added --
+Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2026). Deep MCRan: Hybrid Analysis-based Ransomware Detection Using Multi-Channel Data Fusion. IEEE Access.
+DOI: 10.1109/ACCESS.2026.3727310
 
 ## Dataset Overview
 
