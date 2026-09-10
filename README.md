@@ -21,4 +21,6 @@ DOI: 10.1109/ACCESS.2026.3727310
 * The executable files of the remaining three datasets were collected from publicly available repositories (VirusShare and MalwareBazaar).
 
 All executable files were analyzed using our the methodology described in our paper, and the resulting datasets are provided in this repository. Please refer to our paper for detailed information about the datasets:
--- To be added --
+
+Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2026). Deep MCRan: Hybrid Analysis-based Ransomware Detection Using Multi-Channel Data Fusion. IEEE Access.
+DOI: 10.1109/ACCESS.2026.3727310
